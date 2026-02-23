@@ -4,7 +4,7 @@ alias ls='ls --color=auto'
 alias ll='ls -la --color=auto'
 alias vim=nvim
 alias claude='claude --dangerously-skip-permissions'
-alias codex='claude --yolo'
+alias codex='codex --yolo'
 
 # Source .zprofile for environment variables
 [[ -f ~/.zprofile ]] && source ~/.zprofile
